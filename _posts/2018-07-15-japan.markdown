@@ -17,15 +17,26 @@ I received my visa in three days and just had to submit all the documents sent b
 
 June
 
+<p align = "center">
+<img src="https://vipulramtekkar.github.io/assets/plane.jpg" alt="View of the country from the flight" align="middle">
+</p>
+
 The first thing that you notice as soon as your enter Japan is the their love for technology from toilets to billboards, from side walks to traffic lights, their have innovations in the simplest of the simple things. The Mumbai rains had caused a 3.5-hour delay my flight and we missed the bus that directly stops near the accommodation, which meant taking 3-4 trains as the hotel was about 80kms away from the airport.
-The initial week was all filled with orientations and visits organised by the university which involved getting to know about the university, the work being done their, understanding about the japanese culture and interacting with the fellow students who were selected in the program. 
+The initial week was all filled with orientations and visits organised by the university which involved getting to know about the university, the work being done their, understanding about the japanese culture and interacting with the fellow students who were selected in the program.
+
+<p align = "center">
+<img src="https://vipulramtekkar.github.io/assets/palace.jpg" alt="A Picture with the Lab Members" align="middle">
+</p>
+
 From the subsequent week, I began with my project. During that week I had to learn about computational biology and problems in the field, getting the knack about the terminologies, understanding about the research that is happening in the area and also beginning my first task which was a problem in data visualization. I had to create a visualization of the transposons, which are the jumping genes and subsequently find the ones that are derived from it and thus, create a chain of such transposons. This structure would resemble that of a tree design and would help to easily locate and various transposons from the gene and thus, help in understanding their structure. I could complete my task quite early and thus, was given another problem to work upon. The second problem was creating a classifier for of the transposons, that is a classifier that could differentiate between whether a given part of gene is a transposon or not. 
 
 July 
 
 I completed my second task in the first week of July which also included a fun trip to kamakura organised by the University and the we also watch a traditional japanese play. The final week included wrapping up all the work and presenting it to all the professors and other summer interns. The last day was the one concluded with two farewell parties, one from the University and another one from the lab which had Indian food too, specially prepared for me!
 
-
+<p align = "center">
+<img src="https://vipulramtekkar.github.io/assets/labpic.jpg" alt="A Picture with the Lab Members" align="middle">
+</p>
 
 
 
