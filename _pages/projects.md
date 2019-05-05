@@ -13,10 +13,11 @@ _Machine Learning Engineer (Nov. '18 - Present)_
 
 I am currently working on implementing various convolutional neural network architectures for lane detection, which is a critical aspect of achieving [level 4 autonomy](https://www.techrepublic.com/article/autonomous-driving-levels-0-to-5-understanding-the-differences/). I have implemented d-linknet and a multi encoder-decoder based architecture for training on the pixel-level annotated lane dataset ([Apollo](http://data.apollo.auto/?locale=en-us&lang=en) and [Mapillary](https://www.mapillary.com/dataset/vistas?pKey=1GyeWFxH_NPIQwgl0onILw)). Currently, we are working on improving the datasets and models to achieve the state of the art lane detection which can be deployed on the Indian roads, which have issues of broken or faint lane markings, thus, making the task of lane detection difficult. 
 
+In the video below, you can see lane detection performed a poorly marked road in low light conditions:
+
 <p align ="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3BNxfnMDV74
-" target="_blank"><img src="http://img.youtube.com/vi/3BNxfnMDV74/0.jpg" 
-alt="Video of lane segmentation"/></a>
+" target="_blank"><img src="https://vipulramtekkar.github.io/assets/image_segmentation.png"/></a>
 </p>
 
 #### **AUV IIT Bombay**
@@ -26,3 +27,10 @@ AUV-IITB comprises of highly enthusiastic and hardworking technocrats ranging fr
 _Chief Engineer (Aug. '16 - Jan. '18)_
 
 I was involved in the analysing the structures, rigorous testing and prototyping the parts of the vehicle. I have represented the team in various tech expositions. I was involved in the development of state of the art 2-D arm which could perform multiple actions. I improvised the designs of the torpedos for better range and designed a testing mechanism for the same. 
+
+In the video below you can find me explaining about Matsya 4:
+
+<p align ="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=njcUPe0PbCE&feature=youtu.be&t=242
+" target="_blank"><img src="https://vipulramtekkar.github.io/assets/auvmatsya4.png"/></a>
+</p>
