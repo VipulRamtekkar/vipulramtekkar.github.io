@@ -13,6 +13,9 @@ _Machine Learning Engineer (Nov. '18 - Present)_
 
 I am currently working on implementing various convolutional neural network architectures for lane detection, which is a critical aspect of achieving [level 4 autonomy](https://www.techrepublic.com/article/autonomous-driving-levels-0-to-5-understanding-the-differences/). I have implemented d-linknet and a multi encoder-decoder based architecture for training on the pixel-level annotated lane dataset ([Apollo](http://data.apollo.auto/?locale=en-us&lang=en) and [Mapillary](https://www.mapillary.com/dataset/vistas?pKey=1GyeWFxH_NPIQwgl0onILw)). Currently, we are working on improving the datasets and models to achieve the state of the art lane detection which can be deployed on the Indian roads, which have issues of broken or faint lane markings, thus, making the task of lane detection difficult. 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3BNxfnMDV74
+" target="_blank"><img src="http://img.youtube.com/vi/3BNxfnMDV74/0.jpg" 
+vipualt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### **AUV IIT Bombay**
 
