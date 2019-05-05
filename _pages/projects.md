@@ -15,7 +15,7 @@ I am currently working on implementing various convolutional neural network arch
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3BNxfnMDV74
 " target="_blank"><img src="http://img.youtube.com/vi/3BNxfnMDV74/0.jpg" 
-vipualt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+vipualt="IMAGE ALT TEXT HERE"/></a>
 
 #### **AUV IIT Bombay**
 
