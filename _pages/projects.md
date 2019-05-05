@@ -27,3 +27,10 @@ AUV-IITB comprises of highly enthusiastic and hardworking technocrats ranging fr
 _Chief Engineer (Aug. '16 - Jan. '18)_
 
 I was involved in the analysing the structures, rigorous testing and prototyping the parts of the vehicle. I have represented the team in various tech expositions. I was involved in the development of state of the art 2-D arm which could perform multiple actions. I improvised the designs of the torpedos for better range and designed a testing mechanism for the same. 
+
+In the video below you can find me explaining about Matsya 4:
+
+<p align ="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=njcUPe0PbCE&feature=youtu.be&t=242
+" target="_blank"><img src="https://vipulramtekkar.github.io/assets/auvmatsya4.png"/></a>
+</p>
