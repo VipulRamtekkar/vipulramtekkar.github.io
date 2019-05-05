@@ -15,7 +15,7 @@ I am currently working on implementing various convolutional neural network arch
 
 <p align ="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3BNxfnMDV74
-" target="_blank"><img src="https://vipulramtekkar.github.io/assets/image_segmentation.jpg"/></a>
+" target="_blank"><img src="https://vipulramtekkar.github.io/assets/image_segmentation.png"/></a>
 </p>
 
 #### **AUV IIT Bombay**
