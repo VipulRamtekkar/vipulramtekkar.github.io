@@ -32,5 +32,5 @@ In the video below you can find me explaining about Matsya 4:
 
 <p align ="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=njcUPe0PbCE&feature=youtu.be&t=242
-"target="_blank"><img src="https://vipulramtekkar.github.io/assets/auvmatsya4.png"/></a>
+" target="_blank"><img src="https://vipulramtekkar.github.io/assets/auvmatsya4.png"/></a>
 </p>
