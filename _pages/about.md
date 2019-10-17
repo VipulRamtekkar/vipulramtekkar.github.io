@@ -8,7 +8,9 @@ permalink: /about/
 </p>
 
 
-My name is Vipul Ramtekkar, and I am a third-year undergraduate student at [Indian Institute of Technology, Bombay](http://www.iitb.ac.in/) pursing a major in Chemical Engineering and a minor in Computer Science and Engineering. I am a technology enthusiast who is excited to read, work & explore more in the field of Science and Technology. I have done multiple projects related to autonomous systems and robotics, and currently, I am a member of [Sedrica](https://vipulramtekkar.github.io/projects/), where we are working on building a self-driving car for the Indian roads.
+My name is Vipul Ramtekkar, and I am a fourth-year undergraduate student at [Indian Institute of Technology, Bombay](http://www.iitb.ac.in/) pursing a major in Chemical Engineering and a minor in Computer Science and Engineering. I am a technology enthusiast who is excited to read, work & explore more in the field of Science and Technology. I have done multiple projects related to autonomous systems and robotics, and currently, I am a member of [Sedrica](https://vipulramtekkar.github.io/projects/), where we are working on building a self-driving car for the Indian roads.
+
+In my summer 2019, I worked in collaboration with the US Army Research Lab on video object tracking on Autonomous Unmanned Aerial Vehicles in [Civa Lab](http://cell.missouri.edu/), University of Missouri-Columbia. My worked involved improving single object tracker by making it more robust to failure and thus, led to developing a state-of-art tracker built by fusing motion flux, deep Siamese network and yolo detector. The new tracker outperformed all the current trackers in a benchmarking test based on accuracy and number of restarts required. 
 
 I have also represented by college in the [InterIIT Tech Meet](http://inter-iit.tech/) for the year 2017 & 2018 and this year we built an autonomous strawberry harvester and achieved 3rd position in it, based on pitching the business model, demonstration of the prototype and the presenting the [technical paper]({{site.url}}/assets/report.pdf).
 
