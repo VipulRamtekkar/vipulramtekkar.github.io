@@ -3,10 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p align = "center">
-<img src="https://vipulramtekkar.github.io/assets/Vipul.jpg" alt="My Image" align="middle" width="230" height="215">
-</p>
 
+<img style="float: right; width: 35%; padding: 5px;" src="https://vipulramtekkar.github.io/assets/Vipul.jpg">
 
 My name is Vipul Ramtekkar, and I am a fourth-year undergraduate student at [Indian Institute of Technology, Bombay](http://www.iitb.ac.in/) pursing a major in Chemical Engineering and a minor in Computer Science and Engineering. I am a technology enthusiast who is excited to read, work & explore more in the field of Science and Technology. I have done multiple projects related to autonomous systems and robotics, and currently, I am a member of [Sedrica](https://vipulramtekkar.github.io/projects/), where we are working on building a self-driving car for the Indian roads.
 
