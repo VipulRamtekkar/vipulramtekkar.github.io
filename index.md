@@ -3,10 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<p align = "center">
-<img src="https://vipulramtekkar.github.io/assets/Vipul2.jpg" alt="My Image" align="middle" width="230" height="215">
-</p>
-
+<img style="float: right; width: 35%; padding: 5px;" src=" {{ site.url }}/assets/Vipul2.jpg">
 
 Welcome to my little corner of the internet.
 
