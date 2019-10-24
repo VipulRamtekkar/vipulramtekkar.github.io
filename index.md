@@ -11,4 +11,4 @@ My name is Vipul Ramtekkar, and I am a senior undergraduate student pursuing Che
 
 To get an insight into my professional life so far, you can have a look at my [curriculum vitae]({{ site.url }}/assets/CV.pdf) and [projects]({{ site.url }}/projects).
 
-I also like to [blog]({{site.url}}/archive) about my personal experiences. Feel free to read a bit more [about me]({{ site.url }}/about). 
+I have also written [blogs]({{site.url}}/archive) about my summer research experiences. Feel free to read a bit more [about me]({{ site.url }}/about). 
