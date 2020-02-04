@@ -3,7 +3,6 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 5px;" src="https://vipulramtekkar.github.io/assets/Vipul2.jpg">
 
 Welcome to my little corner of the internet.
 
