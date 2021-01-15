@@ -6,7 +6,7 @@ layout: page
 
 Welcome to my little corner of the internet.
 
-My name is Vipul Ramtekkar, and I am a senior undergraduate student pursuing Chemical Engineering, along with a minor in Computer Science & Engineering, at the [Indian Institute of Technology Bombay](http://www.iitb.ac.in/).
+My name is Vipul Ramtekkar, and I am currently working as a Computer Vision Engineer at Honda R&D Japan. I received my undergraduate degree from [IIT Bombay](http://www.iitb.ac.in/).
 
 To get an insight into my professional life so far, you can have a look at my [curriculum vitae]({{ site.url }}/assets/CV.pdf) and [projects]({{ site.url }}/projects).
 
