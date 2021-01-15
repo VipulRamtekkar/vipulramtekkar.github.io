@@ -10,4 +10,5 @@ My name is Vipul Ramtekkar, and I am currently working as a Computer Vision Engi
 
 To get an insight into my professional life so far, you can have a look at my [curriculum vitae]({{ site.url }}/assets/CV.pdf) and [projects]({{ site.url }}/projects).
 
-I have also written [blogs]({{site.url}}/archive) about my summer research experiences. Feel free to read a bit more [about me]({{ site.url }}/about). 
+I have also written [blogs]({{site.url}}/archive) about my excellent summer research experiences at [University of Missouri Columbia](missouri.edu
+)(Summer 2019) and [The University of Tokyo](https://www.u-tokyo.ac.jp/en)(Summer 2018). Feel free to read a bit more [about me]({{ site.url }}/about). 
