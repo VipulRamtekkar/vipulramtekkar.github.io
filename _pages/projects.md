@@ -9,11 +9,11 @@ permalink: /projects/
 The [Mahindra Rise Challenge](http://www.sparktherise.com/) envisages developing a working unit of a ‘driverless car’ for Indian conditions. Applicants will be required to develop and demonstrate such a car first for ‘controlled environments’ such as campuses, followed by an intra-city situation. Applicants can assume that the vehicle will drive on paved roads. 
 Innovation Cell has received a Mahindra E2o Car for being in the **top 11** amongst 289 teams. 
 
-**Computer Vision Head** _(April. '19 - Present)_
+**Computer Vision Head** _(April. '19 - May '20)_
 
 As the head of computer vision subdivision, I am leading a team of sophomores and thirdies working towards implementing road detection, object detection, object classification and lane segementation.
 
-**Computer Vision Researcher** _(Nov. '18 - Present)_
+**Computer Vision Researcher** _(Nov. '18 - March '19)_
 
 I am currently working on implementing various convolutional neural network architectures for lane detection, which is a critical aspect of achieving [level 4 autonomy](https://www.techrepublic.com/article/autonomous-driving-levels-0-to-5-understanding-the-differences/). I have implemented d-linknet and a multi encoder-decoder based architecture for training on the pixel-level annotated lane dataset ([Apollo](http://data.apollo.auto/?locale=en-us&lang=en) and [Mapillary](https://www.mapillary.com/dataset/vistas?pKey=1GyeWFxH_NPIQwgl0onILw)). Currently, we are working on improving the datasets and models to achieve the state of the art lane detection which can be deployed on the Indian roads, which have issues of broken or faint lane markings, thus, making the task of lane detection difficult. 
 
